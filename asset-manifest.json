@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.469134d2.css",
+    "main.js": "/personal-website/static/js/main.09dcb17a.js",
+    "static/js/453.2807b325.chunk.js": "/personal-website/static/js/453.2807b325.chunk.js",
+    "static/media/personal-website-resume-fall24.pdf": "/personal-website/static/media/personal-website-resume-fall24.24a62dc602cc46ccfbd7.pdf",
+    "static/media/green-plaid.jpg": "/personal-website/static/media/green-plaid.3a77bac87a1b7434287a.jpg",
+    "index.html": "/personal-website/index.html",
+    "main.469134d2.css.map": "/personal-website/static/css/main.469134d2.css.map",
+    "main.09dcb17a.js.map": "/personal-website/static/js/main.09dcb17a.js.map",
+    "453.2807b325.chunk.js.map": "/personal-website/static/js/453.2807b325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469134d2.css",
+    "static/js/main.09dcb17a.js"
+  ]
+}
