@@ -1,11 +1,26 @@
+body
+{
+  background-image: url('assets/green-plaid.jpg');
+  background-size: cover;
+}
+
 #intro_box {
   text-align: center;
-
-  border: 5px solid blue;
+  background-color: white;
+  border: 5px solid;
   border-radius: 50px;
   border-color: rgb(145, 174, 140);
   padding: 20px;
-
   margin: 10%;
+
+  /*transition animation*/
+  opacity: 0;
+  transform: translateY(-50px);
+  transition: opacity 1s ease, transform 1s ease;
 }
 
+#intro_box.active
+{
+  opacity: 1;
+  transform: translateY(0);
+}
